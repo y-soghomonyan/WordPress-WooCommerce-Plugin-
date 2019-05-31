@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Express Shipping Method for WooCommerce
- * Plugin URI: http://r2adevelopment.am
+ * Plugin URI: https://r2adevelopment.am
  * Description: Express Shipping Method for WooCommerce
  * Version: 1.0.0
  * Author: Yervand Soghomonyan
